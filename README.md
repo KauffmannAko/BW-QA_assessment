@@ -20,12 +20,11 @@
 
 ## Adding More Tests
 
-- Tests are found in the `e2e/e2e_tests` directory.
+- Tests are found in the `e2e/tests` directory.
 - You can navigate to that directory to add or update tests.
-- Classes are defined in the `page_object` directory.
-- Custom commands are written in the `commands.js` file.
+- Classes are defined in the `pages` directory.
 
 ## Test Data
 
-- Test data is defined in the `fixture` directory.
+- Test data are defined in the `fixture` directory.
 
