@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cy:open": "cypress open"
+    "cy:open": "cypress open",
+    "cy:headless" :"cypress run --headless",
+    "cy:html":"cypress run --reporter cypress-html-reporter"
   },
   "author": "",
   "license": "ISC",

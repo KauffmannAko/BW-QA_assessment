@@ -1,0 +1,28 @@
+{
+  "names": {
+    "firstName":"John",
+    "lastName":"Smith",
+    "noName":" "
+  },
+  "emails": {
+    "validEmail":"john.smith@example.com",
+    "invalidEmail":"john.smith@example"
+  },
+  "password":{
+    "validPassword1":"P@ssw0rd",
+    "validPassword2":"T@ssw0rd",
+    "weakpass": "pass"
+  },
+  "phoneNumber":{
+    "validPhoneNumber":"1234567890",
+    "invalidPhoneNumber":"+5612345678909996"
+
+  },
+  "Address": ["123 Main St, Apt 1"," Main","Apt"],
+  "url": {
+    "validLinkedin" : "https://www.linkedin.com/in/johnsmith",
+    "invalidLinkedin":["linkedin","https://www.linkedin.com/in/johnsmithhttps://www.linkedin.com/in/johnsmith"],
+    "validGithub" : "https://github.com/johnsmith"
+
+  }
+}
